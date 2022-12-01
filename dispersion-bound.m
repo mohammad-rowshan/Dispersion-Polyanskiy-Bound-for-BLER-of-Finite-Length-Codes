@@ -8,6 +8,8 @@
 # the source code retains the above copyright notice, and te redistribtuion condition.
 # 
 # Freely distributed for educational and research purposes
+#
+# This script was used in doi: 10.1109/TVT.2021.3052550
 ########################################################################################
 
 N=2^7;  % block length
