@@ -17,8 +17,7 @@ https://arxiv.org/abs/2111.08843
 
 If you find this algorithm useful, please cite one of the above papers. Thanks.
 
-
-This bound is also called PPV meta-converse bound - Normal Approximation (NA) for BI-AWGN channel. The capacity of the binary-input AWGN channel and the channel dispersion coefficient are calculated based on Laplace transform suggested in 
+This bound is also called Polyanskiy-Poor–Verdú (PPV) meta-converse bound - Normal Approximation (NA) for BI-AWGN channel. The capacity of the binary-input AWGN channel and the channel dispersion coefficient are calculated based on Laplace transform suggested in 
 
 T. Erseghe, "Coding in the finite-blocklength regime: Bounds based on Laplace integrals and their asymptotic approximations,” IEEE Trans. Inf. Theory, vol. 62, no. 12, pp. 6854–6883, Dec. 2016.
 
