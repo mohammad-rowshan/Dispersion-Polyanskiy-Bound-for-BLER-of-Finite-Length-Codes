@@ -1,4 +1,4 @@
-# Dispersion Bound for BLER of finite blocklength codes for BI-AWGN channels
+# Dispersion Bound for BLER of finite blocklength codes over BI-AWGN channel
 This is a MATLAB script for obtaining achievable block/frame error rate (BLER/FER) bound for finite blocklength codes based on channel dispersion concept and by considering normal approximation (NA). 
 
 I have used this bound for comparison in the numerical results of the following papers:
