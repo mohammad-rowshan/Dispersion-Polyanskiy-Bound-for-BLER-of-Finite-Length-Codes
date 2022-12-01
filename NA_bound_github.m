@@ -1,10 +1,6 @@
-% PPV meta-converse bound - Normal Approximation (NA) for BI-AWGN channel
-% O(n^{−2}) approximation of the Polyanskyi-Poor-Verdù (PPV) meta-converse bound for the finite blocklength regime
-% T. Erseghe, "Coding in the finite-blocklength regime: Bounds based on Laplace integrals and their asymptotic approximations,” IEEE Trans. Inf. Theory, vol. 62, no. 12, pp. 6854–6883, Dec. 2016.
-
 N=2^7;  % block length
 R=0.5;  % code rate
-EbN0dB=1:0.1:4;  % the range of SNR per info bit (Eb/N0) in dB
+EbN0dB=1:0.1:4;  % the target range of SNR per info bit (Eb/N0) in dB
 EbN0=10.^(EbN0dB/10); 
 SNR=EbN0*2*R; 
 Zmin = -9; Zmax = 9;
@@ -24,4 +20,3 @@ title(['Dispersion Bound based on Normal Approximation (NA) for (' num2str(N) ',
 xlabel('E_b/N_0 [dB]') 
 ylabel('BLER') 
 legend('Dispersion Bound');
-
