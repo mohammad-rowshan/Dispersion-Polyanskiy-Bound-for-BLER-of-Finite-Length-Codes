@@ -1,5 +1,4 @@
 # Dispersion Bound for Finite Blocklength Codes over BI-AWGN Channel ###################
-#
 # Copyright (c) 2022, Mohammad Rowshan
 # All rights reserved.
 #
